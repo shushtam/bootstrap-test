@@ -1,7 +1,7 @@
 
 .badg {
-	width:130px;
-	height:50px;
+	width:80%;
+	height:15%;
 
 }
 .brd {
@@ -29,13 +29,14 @@
 
 }
 .icn {
-	width:170px;
-	height:50px;
+	width:90%;
+	height:10%;
 
 }
 .img {
 	height:25px;
 	width:30px;
+	display:inline!important;
 
 }
 .mtch {
@@ -43,7 +44,7 @@
 
 }
 #addbtn {
-	width:170px;
+	width:90%;
 	background-color: #0061b0 !important; 
 
 }
